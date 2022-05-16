@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/superudo/gh-page-starter/static/css/main.073c9b0a.css",
+    "main.js": "/superudo/gh-page-starter/static/js/main.fee1bfd2.js",
+    "static/js/787.3586b141.chunk.js": "/superudo/gh-page-starter/static/js/787.3586b141.chunk.js",
+    "static/media/logo.svg": "/superudo/gh-page-starter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/superudo/gh-page-starter/index.html",
+    "main.073c9b0a.css.map": "/superudo/gh-page-starter/static/css/main.073c9b0a.css.map",
+    "main.fee1bfd2.js.map": "/superudo/gh-page-starter/static/js/main.fee1bfd2.js.map",
+    "787.3586b141.chunk.js.map": "/superudo/gh-page-starter/static/js/787.3586b141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fee1bfd2.js"
+  ]
+}
